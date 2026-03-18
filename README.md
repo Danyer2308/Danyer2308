@@ -29,4 +29,4 @@ Desarrollador con experiencia en backend web e iOS nativo, enfocado en crear sol
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danyer2308&show_icons=true&theme=onedark)
