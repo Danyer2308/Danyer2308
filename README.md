@@ -25,4 +25,4 @@ Desarrollador con experiencia en backend web e iOS nativo, enfocado en crear sol
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Danyer2308&theme=highcontrast)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
